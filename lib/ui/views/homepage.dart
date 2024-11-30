@@ -1,6 +1,6 @@
 import 'package:contacts_app/data/entity/person.dart';
-import 'package:contacts_app/ui/views/new-person.dart';
-import 'package:contacts_app/ui/views/person-details.dart';
+import 'package:contacts_app/ui/views/new_person.dart';
+import 'package:contacts_app/ui/views/person_details.dart';
 import 'package:flutter/material.dart';
 
 class Homepage extends StatefulWidget {

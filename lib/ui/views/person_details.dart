@@ -20,7 +20,6 @@ class _PersonDetailsPageState extends State<PersonDetailsPage> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     var person = widget.person;
     tfPersonName.text = person.personName;
